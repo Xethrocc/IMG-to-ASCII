@@ -1,0 +1,21 @@
+# Cabal build artifacts
+/dist-newstyle/
+Setup.exe
+Setup.hi
+Setup.o
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Output from test runs
+output_json/
+*.json
+!package.json
