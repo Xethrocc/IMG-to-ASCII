@@ -1,6 +1,6 @@
 # img-to-ascii
 
-A Haskell CLI tool that converts images into ASCII art and exports them as structured JSON files — designed for integration with text-based game engines.
+A Haskell CLI tool that converts images into ASCII art and exports them as structured JSON files — designed for integration with text-based game engines. (Or rather 'my' text-based game engine)
 
 ## Features
 
