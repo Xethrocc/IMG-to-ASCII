@@ -15,7 +15,7 @@ A Haskell CLI tool that converts images into ASCII art and exports them as struc
 Requires [GHC](https://www.haskell.org/ghc/) and [Cabal](https://www.haskell.org/cabal/).
 
 ```bash
-git clone https://github.com/zeroclaw/img-to-ascii.git
+git clone https://github.com/Xethrocc/img-to-ascii.git
 cd img-to-ascii
 cabal build
 ```
