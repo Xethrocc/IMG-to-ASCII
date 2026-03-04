@@ -6,8 +6,8 @@ description:         A simple CLI tool to convert images (PNG, JPG, BMP) into AS
                      art and export them as JSON files for use in text-based game
                      engines.
 license:             MIT
-author:              ZeroClaw
-copyright:           2026 ZeroClaw
+author:              Xethrocc
+copyright:           2026 Xethrocc
 category:            Graphics
 extra-source-files:  README.md
 
